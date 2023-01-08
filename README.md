@@ -3,8 +3,8 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   years: 19
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, Kotlin, Swift, Shell, Assembly],
+   years: 19,
+   code: [Javascript, Typescript, HTML, CSS, Python, Java, Kotlin, Swift, Shell, Assembly]
    technologies: {
       frontEnd: {
          js: ["React", "Angular"],
