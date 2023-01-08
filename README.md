@@ -17,7 +17,7 @@ const aboutMe = {
       },
       databases: ["MongoDB", "mySQL", "SQLServer", "PostgreSql"],
       mobile: ["Android", "IOS"]
-      bot's: ["Telegram", "Binance", "Discord", "Whatsapp"]
+      bots: ["Telegram", "Binance", "Discord", "Whatsapp"]
    },
    currentOccupation: ["student open for work"],
    goal: "I work to improve the world with my knowledge",
