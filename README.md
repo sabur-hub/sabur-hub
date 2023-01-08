@@ -34,5 +34,5 @@ const aboutMe = {
 <img src="http://github-profile-summary-cards.verc![free-animated-icon-social-media-6172532](https://user-images.githubusercontent.com/76915977/211181578-57943066-c18a-4450-a894-b315781b60c2.gif)
 el.app/api/cards/profile-details?username=sabur-hub&theme=2077" /></p>
 
-# [MySite](https://mroutic.netlify.app) <img src="![Uploading free-animated-icon-social-media-6172532.gif…]()" />
+# [MySite](https://mroutic.netlify.app) ![Uploading free-animated-icon-social-media-6172532.gif…]()
 
