@@ -31,7 +31,6 @@ const aboutMe = {
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabur-hub&langs_count=10&theme=tokyonight&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="sabur-hub :: Top Langs" />
-<img src="http://github-profile-summary-cards.verc![free-animated-icon-social-media-6172532](https://user-images.githubusercontent.com/76915977/211181578-57943066-c18a-4450-a894-b315781b60c2.gif)![free-animated-icon-social-media-6172532](https://user-images.githubusercontent.com/76915977/211181642-7dd35939-063f-4b5a-ae05-2c3968ad7fb9.jpg)
 
 el.app/api/cards/profile-details?username=sabur-hub&theme=2077" /></p>
 
