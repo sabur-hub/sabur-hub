@@ -36,4 +36,3 @@ const aboutMe = {
 # <p align="center">[MySite](https://mroutic.netlify.app) [Whatsapp](https://wa.me/qr/2VUINKUE737SE1) [Telegram](https://t.me/Outic_03)</p>
 
 
-
