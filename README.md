@@ -7,7 +7,6 @@ const aboutMe = {
    code: [Javascript, Typescript, HTML, CSS, Python, Java, Kotlin, Swift, Shell, Assembly],
    technologies: {
       frontEnd: {
-         python: ["tkinter", "matplotlb", "pyqt5"],
          js: ["React", "Angular"],
          css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
       },
@@ -19,7 +18,8 @@ const aboutMe = {
       },
       databases: ["MongoDB", "mySQL", "SQLServer", "PostgreSql"],
       mobile: ["Android", "IOS"],
-      bots: ["Telegram", "Binance", "Discord", "Whatsapp"]
+      bots: ["Telegram", "Binance", "Discord", "Whatsapp"],
+      interface: ["tkinter", "matplotlib", "pyqt5"]
    },
    currentOccupation: ["student open for work"],
    goal: "I work to improve the world with my knowledge",
