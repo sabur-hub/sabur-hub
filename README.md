@@ -16,7 +16,7 @@ const aboutMe = {
          misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
       },
       databases: ["MongoDB", "mySQL", "SQLServer", "PostgreSql"],
-      mobile: ["Android", "IOS"]
+      mobile: ["Android", "IOS"],
       bots: ["Telegram", "Binance", "Discord", "Whatsapp"]
    },
    currentOccupation: ["student open for work"],
