@@ -3,7 +3,7 @@
 const aboutMe = {
    pronouns: "he" | "him",
    years: 19
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, Kotlin, Swift, Shell, Asembily],
+   code: [Javascript, Typescript, HTML, CSS, Python, Java, Kotlin, Swift, Shell, Assembly],
    technologies: {
       frontEnd: {
          python: ["tkinter", "matplotlb", "pyqt5"]
