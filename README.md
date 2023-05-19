@@ -3,7 +3,7 @@
 
 
 ```javascript
-const aboutMe = {
+let aboutMe = {
    pronouns: "he" | "him",
    years: 19,
    study: "ITMO Univesity",
