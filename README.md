@@ -5,7 +5,7 @@
 ```javascript
 let aboutMe = {
    pronouns: "he" | "him",
-   years: 19,
+   years: 20,
    study: "ITMO Univesity",
    code: [Javascript, Typescript, HTML, CSS, Python, Java, Kotlin, Swift, Shell, Assembly, C, C++],
    technologies: {
