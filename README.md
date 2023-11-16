@@ -7,7 +7,7 @@ let aboutMe = {
    pronouns: "he" | "him",
    years: 20,
    study: "ITMO Univesity",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, Kotlin, Swift, Shell, Assembly, C, C++],
+   code: [JAVASCRIPT, TYPESCRIPT, HTML, CSS, PYTHON, JAVA, KOTLIN, SWIFT, SHELL, ASSEMBLY, C, C++],
    technologies: {
       frontEnd: {
          js: ["React", "Angular", "Vue"],
