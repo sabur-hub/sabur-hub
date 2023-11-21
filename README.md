@@ -6,7 +6,7 @@
 let aboutMe = {
    pronouns: "he" | "him",
    years: 20,
-   study: "ITMO Univesity",
+   study: "ITMO Univesity and TNU University",
    code: [JAVASCRIPT, TYPESCRIPT, HTML, CSS, PYTHON, JAVA, KOTLIN, SWIFT, SHELL, ASSEMBLY, C, C++],
    technologies: {
       frontEnd: {
