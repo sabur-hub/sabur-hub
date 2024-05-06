@@ -11,11 +11,11 @@ let aboutMe = {
    code: [JAVASCRIPT, TYPESCRIPT, HTML, CSS, PYTHON, JAVA, KOTLIN, SWIFT, SHELL, ASSEMBLY, C, C++],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular", "Vue"],
+         js: ["React", "Angular", "Vue", "React-native"],
          css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
       },
       backEnd: {
-         python: ["Django"],
+         python: ["Django", "Flask", "Fast Api", "Redis"],
          java: ["Spring"],
          js: ["Node", "Express"],
          misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
@@ -25,7 +25,7 @@ let aboutMe = {
       bots: ["Telegram", "Binance", "Discord", "Whatsapp"],
       interface: ["tkinter", "matplotlib", "pyqt5"]
    },
-   currentOccupation: ["student open for work"],
+   currentOccupation: ["student working in MTI and IT-RUN"],
    goal: "I work to improve the world with my knowledge"
 };
 ```
