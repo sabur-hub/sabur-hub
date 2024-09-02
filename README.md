@@ -1,6 +1,4 @@
-# <h2>Hi, I'm Sabur <img src="https://w7.pngwing.com/pngs/267/59/png-transparent-blue-and-white-check-logo-illustration-verified-badge-logo-youtube-youtube-thumbnail.png" width=50 height=50 />
-
-</h2> 
+# <h2>Hi, I'm Sabur</h2> 
 
 
 ```javascript
