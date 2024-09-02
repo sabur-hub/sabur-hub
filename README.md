@@ -1,4 +1,4 @@
-# <h2>Hi, I'm Sabur <img src="https://camo.githubusercontent.com/ab4402eee6d9652f0cf14a14bec3b91e84923dc3aa1ab293cf039efc18a27c4a/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32302f3030303030302f696e7374616772616d2d766572696669636174696f6e2d62616467652e706e67](https://w7.pngwing.com/pngs/267/59/png-transparent-blue-and-white-check-logo-illustration-verified-badge-logo-youtube-youtube-thumbnail.png" />
+# <h2>Hi, I'm Sabur <img src="https://w7.pngwing.com/pngs/267/59/png-transparent-blue-and-white-check-logo-illustration-verified-badge-logo-youtube-youtube-thumbnail.png" />
 
 </h2> 
 
