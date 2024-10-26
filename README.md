@@ -4,12 +4,12 @@
 ```javascript
 let aboutMe = {
    pronouns: "he" | "him",
-   years: 20,
+   years: 21,
    study: "ITMO Univesity and TNU University",
    code: [JAVASCRIPT, TYPESCRIPT, HTML, CSS, PYTHON, JAVA, KOTLIN, SWIFT, SHELL, ASSEMBLY, C, C++],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular", "Vue", "React-native"],
+         js: ["React + Vite", "Angular", "Vue", "React-native"],
          css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
       },
       backEnd: {
